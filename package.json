@@ -1,0 +1,28 @@
+{
+  "name": "react-redom",
+  "version": "1.0.1",
+  "description": "Create more easily React element without JSX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PHaroZ/react-redom.git"
+  },
+  "keywords": [
+    "React",
+    "ReactJS",
+    "JSX"
+  ],
+  "author": "PHaroZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PHaroZ/react-redom/issues"
+  },
+  "homepage": "https://github.com/PHaroZ/react-redom#readme",
+  "devDependencies": {
+    "react": "~15.4.2",
+    "lodash": ">=3.10.1"
+  }
+}

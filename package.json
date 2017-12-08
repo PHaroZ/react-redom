@@ -1,6 +1,6 @@
 {
   "name": "react-redom",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create more easily React element without JSX",
   "main": "index.js",
   "scripts": {
